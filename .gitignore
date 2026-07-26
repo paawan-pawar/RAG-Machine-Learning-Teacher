@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+.agents/
+.claude/
+__pycache__/
+*.pyc
+.streamlit/
+.pytest_cache/
+data/chroma_db/
